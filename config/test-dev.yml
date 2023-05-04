@@ -17,7 +17,3 @@ spring:
           default-label: main
           search-paths: config
           uri: https://github.com/NiuErQiang/project.git
-          
-
-jt:
-  dev: 100
